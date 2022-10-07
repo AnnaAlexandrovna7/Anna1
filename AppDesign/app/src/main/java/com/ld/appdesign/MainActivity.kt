@@ -1,10 +1,9 @@
-package com.ld.appui
-
+package com.ld.appdesign
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.AdapterView
-import com.ld.appui.databinding.ActivityMainBinding
+import com.ld.appdesign.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
